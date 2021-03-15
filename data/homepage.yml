@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "HIDRATANTES Y CREMAS"
-  content : "Hidratación revitalizante y revitalizante de día y de noche"
+  content : "Crema hidratante universal"
   image : "images/banner.png"
   # button
   button:
@@ -18,8 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "La crema hidratante Hydreane Legere de la marca francesa de cosmética médica La Roche-Posay está diseñada para reducir la sensibilidad de la piel y eliminar el problema de la deshidratación.La fórmula revolucionaria de la crema presentada contiene exclusivos agentes hidrofijantes que penetran en las capas más profundas de la epidermis y proporcionan un aumento en el nivel de saturación de humedad. Además, los hidrofixers en combinación con agua termal calman y relajan la piel, reducen su sensibilidad.
-La consistencia ultraligera y sin aceite de Hydreane Legere está formulada teniendo en cuenta las características"
+  content : "Una crema hidratante universal de la compañía se puede llamar un clásico entre los cosméticos de cuidado para el cuidado de la piel. A lo largo de los años, el producto ha conservado su gran popularidad debido a su composición inalterada altamente eficaz y una lata lacónica, decorada con un estilo característico."
   image : "images/about.png"
 
 
@@ -53,7 +52,7 @@ material:
 advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
-  subtitle : "Consistencia de crema ultraligera y sin aceite"
+  subtitle : "La crema se puede utilizar para el cuidado e hidratación completos de cualquier tipo de piel. Los principales componentes de la crema son glicerina, pantenol y eucerita. La ausencia de conservantes en su composición indica que los productos presentados se pueden aplicar incluso en pieles muy sensibles, así como en la delicada piel del bebé. Testado dermatológicamente, no deja residuos grasos o pegajosos en la piel. La crema puede ser una verdadera salvación en el duro invierno frío cuando aparecen irritación, enrojecimiento y sequedad en la piel. Es indispensable en épocas de calor, cuando la piel es propensa a la deshidratación."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
@@ -91,26 +90,26 @@ testimonial:
     - name : "Angela Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "Una buena crema, pero no para mi piel mixta, la apliqué sobre la piel y después de 5 minutos inmediatamente comencé a lavarme la cara ya que había una terrible sensación de poros tapados. Ahora lo uso como bálsamo para los labios, sí, aunque lo resuelve el 4/5"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventilo"
+    - name : "Loya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "Una crema densa, pero se absorbe con normalidad. El olor es bueno. El principal problema es que no funciona muy bien. Me lo pongo en las manos en invierno en las heladas y su acción es suficiente por un par de horas, luego de lo cual la piel se seca nuevamente y comienza a agrietarse. O la crema no es muy buena o mi piel no encajaba."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
+    - name : "Richard Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "Crema para edades, excelente calidad, super densa, grasosa. Máxima hidratación."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Riya Venla"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
+      content : "La crema es muy densa. No se absorbe por completo y deja una película aceitosa. Pero al mismo tiempo hidrata muy bien. Creo que esta es una gran opción para el cuerpo. Para las manos en invierno, lo más. Pero debido a la consistencia densa y la parafina en la composición, no recomendaría aplicarla en la piel del rostro."
       rating : "four" # rating star, one to five
